@@ -8,6 +8,7 @@ public class ThreadTest {
 		int a = 1;
 		System.out.println();
 		System.out.println("d3");
+		System.out.println("d3 ===");
 
 	}
 
