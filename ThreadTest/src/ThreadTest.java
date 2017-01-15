@@ -9,7 +9,7 @@ public class ThreadTest {
 		System.out.println();
 		System.out.println("d3");
 		System.out.println("d3 ===");
-
+		System.out.println("d3 =fff");
 	}
 
 }
