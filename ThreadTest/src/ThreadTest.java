@@ -7,7 +7,7 @@ public class ThreadTest {
 
 		int a = 1;
 		System.out.println();
-
+		int b=2;
 	}
 
 }
